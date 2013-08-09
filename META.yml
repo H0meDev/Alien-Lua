@@ -18,7 +18,7 @@ name: Alien-Lua
 provides:
   Alien::Lua:
     file: lib/Alien/Lua.pm
-    version: v5.2.2.1
+    version: v5.2.2.2
 requires:
   Alien::Base: 0
   File::ShareDir: 1.00
@@ -26,4 +26,4 @@ requires:
   perl: v5.14.0
 resources:
   license: http://dev.perl.org/licenses/
-version: v5.2.2.1
+version: v5.2.2.2

@@ -34,7 +34,7 @@
    "provides" : {
       "Alien::Lua" : {
          "file" : "lib/Alien/Lua.pm",
-         "version" : "v5.2.2.1"
+         "version" : "v5.2.2.2"
       }
    },
    "release_status" : "stable",
@@ -43,5 +43,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "v5.2.2.1"
+   "version" : "v5.2.2.2"
 }
